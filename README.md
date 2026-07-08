@@ -164,18 +164,6 @@ Future development could incorporate:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
-## Repository Structure
-
-```text
-predictive-analytics-MMM/
-│
-├── data/
-│
-├── notebooks/
-│   ├── 01_data_preparation_eda.ipynb
-│   └── 02_modelling_evaluation.ipynb
-│
 ├── outputs/
 │
 ├── requirements.txt
